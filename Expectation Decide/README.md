@@ -1,7 +1,6 @@
 
-# 🎯 Expectation Decider
+# 🎯 Expectation Decider : Probability Analysis of Student Performance
 
-### Skill Education — Shaping Skills for Scaling Higher...!!!
 
 A complete **Theory + Practical** Statistics project analyzing a real-world **Student Competitive Exam Dataset** of 200 records. The project covers probability fundamentals, types of events, random variables, Binomial distribution, Venn diagrams, contingency tables, conditional probability, and Bayes' Theorem — implemented in **Python (Jupyter Notebook)** with a supporting **Word Report**.
 
