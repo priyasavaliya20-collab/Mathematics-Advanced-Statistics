@@ -155,6 +155,9 @@ Variance (σ²) = n × p × (1-p)  = 3 × 0.71 × 0.29 = 0.6177
 
 ### 🔹 Venn Diagram — Study Hours & Attendance
 
+<img width="484" height="453" alt="output" src="https://github.com/user-attachments/assets/40e87669-214e-4174-a67d-45197a422f21" />
+
+
 **A = Study Hours > 10/week &nbsp;|&nbsp; B = Attendance > 80%**
 
 ```python
