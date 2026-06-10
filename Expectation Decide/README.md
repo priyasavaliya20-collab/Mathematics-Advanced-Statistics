@@ -280,7 +280,7 @@ pip install pandas numpy matplotlib seaborn scipy matplotlib-venn openpyxl
 
 ---
 
-👩‍💻 ## Priya Savaliya 
+## 👩‍💻 Priya Savaliya
 📍 Ahmedabad, Gujarat
 
 ⭐ If you found this project helpful, give it a star and feel free to fork!
