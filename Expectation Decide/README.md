@@ -37,7 +37,10 @@ You are a data analyst working for an **educational research organization**. You
 
 ## 🎬 Project GIF
 
-<img width="800" height="425" alt="PR 2 gif" src="https://github.com/user-attachments/assets/5f0016fc-102d-47b4-b2ff-ee6b75893d3a" />
+<img width="800" height="425" alt="PR 1GIF" src="https://github.com/user-attachments/assets/dd47116a-6488-40a3-b55e-c42789bc2f60" />
+
+
+
 
 
 ## 🗂️ Project Files
