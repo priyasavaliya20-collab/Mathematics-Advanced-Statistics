@@ -29,14 +29,6 @@
 
 ---
 
-## 🎬 Project Demo Video
-
-[![Watch the Project Walkthrough](https://img.shields.io/badge/▶️%20Watch%20Demo-Google%20Drive-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1dNdl9H0zVWI2gwrM6scI97YvPVi6oLcr/view?usp=sharing)
-
-> 📺 Click the badge above to watch the full project walkthrough video on Google Drive.
-
----
-
 ## 🎯 Objective
 
 Working for an **educational research organization**, the task is to analyze student performance data and apply probability concepts to understand factors affecting exam success.
@@ -73,6 +65,25 @@ Through this project:
 | `final_exam_pass` | Categorical | Pass / Fail |
 
 ---
+
+## 🎬 Project Demo Video
+
+[![Watch the Project Walkthrough](https://img.shields.io/badge/▶️%20Watch%20Demo-Google%20Drive-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1dNdl9H0zVWI2gwrM6scI97YvPVi6oLcr/view?usp=sharing)
+
+> 📺 Click the badge above to watch the full project walkthrough video on Google Drive.
+
+---
+
+## Project GIF
+
+<img width="800" height="425" alt="PR 1GIF" src="https://github.com/user-attachments/assets/7a3e7b94-9223-41e4-a517-d187ad99b56c" />
+
+---
+
+## Insights GIF 
+
+
+
 
 ## 📗 Probability Topics Covered
 
