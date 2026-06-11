@@ -74,13 +74,13 @@ Through this project:
 
 ---
 
-## Project GIF
+## 🎦 Project GIF
 
 <img width="800" height="425" alt="PR 1GIF" src="https://github.com/user-attachments/assets/7a3e7b94-9223-41e4-a517-d187ad99b56c" />
 
 ---
 
-## Insights GIF 
+##  🎦 Insights GIF 
 
 <img width="800" height="425" alt="Expectation_Decider_GIF" src="https://github.com/user-attachments/assets/43e7350a-e6c8-4811-9a82-781cc8b07996" />
 
