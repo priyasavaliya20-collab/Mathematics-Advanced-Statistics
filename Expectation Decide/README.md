@@ -68,7 +68,7 @@ Through this project:
 
 ## 🎬 Project Demo Video
 
-[![Watch the Project Walkthrough](https://img.shields.io/badge/▶️%20Watch%20Demo-Google%20Drive-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1dNdl9H0zVWI2gwrM6scI97YvPVi6oLcr/view?usp=sharing)
+[![Watch the Project Walkthrough](https://img.shields.io/badge/▶️%20Watch%20Demo-Google%20Drive-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1kkDRoJHD_42mp4uS-3gvouXhL_3NcRF1/view?usp=sharing)
 
 > 📺 Click the badge above to watch the full project walkthrough video on Google Drive.
 
