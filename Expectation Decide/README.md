@@ -337,7 +337,7 @@ P_P_given_H = (P_H_given_P * P_P) / P_H          # 0.8283
 
 ## 👩‍💻 Author
 
-**Shruti Bhawsar**  
+**Priya Savaliya**  
 📍 Ahmedabad, Gujarat
 
 ---
