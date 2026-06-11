@@ -82,8 +82,9 @@ Through this project:
 
 ## Insights GIF 
 
+<img width="800" height="425" alt="Expectation_Decider_GIF" src="https://github.com/user-attachments/assets/43e7350a-e6c8-4811-9a82-781cc8b07996" />
 
-
+---
 
 ## 📗 Probability Topics Covered
 
